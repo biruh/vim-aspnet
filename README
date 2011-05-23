@@ -1,0 +1,12 @@
+Vim Syntax Plugin
+=================
+Based on Mark Feeney script, with javascript support
+
+
+Install Details
+===============
+
+copy the file to syntax folder,
+open filetype.vim and add
+
+au BufRead,BufNewFile *.aspx,*.asmx,*.ascx set aspnet
